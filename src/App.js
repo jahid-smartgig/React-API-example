@@ -10,6 +10,7 @@ function App() {
               <SearchPhotos/>
           </div>
           <h1>Hello</h1>
+          <h3>Hello i am jahid</h3>
     </div>
   );
 }
