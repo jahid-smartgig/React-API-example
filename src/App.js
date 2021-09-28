@@ -9,6 +9,7 @@ function App() {
             <h1 className="title">React Photo Search</h1>
               <SearchPhotos/>
           </div>
+          <h1>Hello</h1>
     </div>
   );
 }
